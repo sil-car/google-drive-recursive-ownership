@@ -15,7 +15,7 @@ NOTE: The Google Drive API does not allow suppressing notifications for change o
 
 ### Setup
 
-    git clone https://github.com/davidstrauss/google-drive-recursive-ownership
+    git clone https://github.com/sil-car/google-drive-recursive-ownership
     pip install --upgrade google-api-python-client oauth2client six
 
 ### Usage
