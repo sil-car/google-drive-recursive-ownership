@@ -30,7 +30,7 @@ Next, if `new-owner.py` is contained in a folder listed in your system's `PATH` 
 
    * The `PATH-PREFIX` folder must be in **My Drive** section. For shared folders right click and select _Add to My Drive_.
 
- - `SHOW-ALREADY-OWNER` "`true`"|"`false`" (default `false`) to hide feedback for files already set correctly.
+ - `SHOW-ALREADY-OWNER` "`true`"|"`false`" (default `true`) to hide feedback for files already set correctly.
 
 Windows Example:
 
